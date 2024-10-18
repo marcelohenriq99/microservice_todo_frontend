@@ -16,6 +16,17 @@ code {
   z-index: 3000;
 } */
 
+.app-icon {
+  font-size: 56px;
+  color: #2193b0;
+}
+
+.todo-gradient-bg {
+  background: #2193b0;
+  background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+  background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
 .custom-card {
   border: none;
   padding: 10px;

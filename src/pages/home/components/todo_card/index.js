@@ -40,13 +40,13 @@ function TodoCard({ task }) {
           <li>
             <button className="dropdown-item" onClick={editTask}>
               <i className="bi bi-pencil"></i>
-              <span className="px-2">Editar</span>
+              <span className="px-2">Edit</span>
             </button>
           </li>
           <li>
             <button className="dropdown-item" onClick={deleteTask}>
-              <i class="bi bi-x-lg"></i>
-              <span className="px-2">Excluir</span>
+              <i className="bi bi-x-lg"></i>
+              <span className="px-2">Delete</span>
             </button>
           </li>
         </ul>

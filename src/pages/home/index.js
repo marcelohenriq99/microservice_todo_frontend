@@ -29,9 +29,9 @@ const tasks = [
 
 function Home() {
   return (
-    <div className="container-fluid vh-100 w-100 home-bg d-flex flex-column justify-content-center align-items-center p-5">
+    <div className="container-fluid vh-100 w-100 todo-gradient-bg d-flex flex-column justify-content-center align-items-center p-5">
       <div className="row col-12 app-title">
-        <h2 className="text-white text-bold pb-5">Todo App</h2>
+        <h2 className="text-white text-bold pb-5">Hello, Marcelo!</h2>
       </div>
       
       <ul className="row col-12">
