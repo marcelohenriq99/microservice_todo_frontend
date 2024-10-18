@@ -1,0 +1,20 @@
+.todo-card {
+  width: 100%;
+}
+
+.task-title {
+  font-size: 1em;
+  margin-bottom: 0;
+  padding-left: .3em;
+}
+
+.todo-actions {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% !important;
+  opacity: .4;
+}
+
+.todo-actions:hover {
+  opacity: .8;
+}
